@@ -1,0 +1,41 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "The former module of The Memified Chinese Resource Pack(Bedrock), is now separated into a separate resource pack. ",
+        "name": "§e蓝色UI资源包",
+        "uuid": "78331a5e-578c-4110-89ef-e21c63084bc4",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "The former module of The Memified Chinese Resource Pack(Bedrock), is now separated into a separate resource pack.",
+            "type": "resources",
+            "uuid": "0fd7ebc4-5e07-4b0e-8500-45d04b96b711",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "capabilities": [
+        "experimental_custom_ui",
+        "chemistry"
+    ],
+    "metadata": {
+        "authors": [
+            "SkyEye_FAST"
+        ],
+        "license": "CC BY-SA 4.0",
+        "url": "https://github.com/Teahouse-Studios/blue-ui-bedrock"
+    }
+}
